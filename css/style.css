@@ -13,6 +13,8 @@ html {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   background-image: linear-gradient(#F5E0DC 5px, #F28FAD);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 body {
   display: block;
@@ -31,6 +33,8 @@ body {
   margin-left: auto;
   margin-right: auto;
   font-family: "Fredoka", "Fredoka Light", monospace;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 #header {
@@ -185,6 +189,8 @@ html.dark-theme {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   background-image: linear-gradient(#443f5c 5px, #161320);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 body.dark-theme {
   display: block;
@@ -204,6 +210,9 @@ body.dark-theme {
   margin-left: auto;
   margin-right: auto;
   font-family: "Fredoka", "Fredoka Light", monospace;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
 }
 .content.dark-theme {
   position: relative;
@@ -294,7 +303,7 @@ body.dark-theme {
   -webkit-filter: none;
 }
 #footer.dark-theme {
-  position: absolute;
+  position:absolute;
   bottom: 0;
   margin-bottom: 10px;
   width: 100%;

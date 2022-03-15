@@ -1,13 +1,24 @@
-const btn = document.querySelector('.tooglethm');
+const btn = document.querySelector(".tooglethm");
 
-// Listen for a click on the button
-btn.addEventListener('click', function() {
-  // Then toggle (add/remove) the .dark-theme class to the body
-  const list =document.querySelectorAll('.light-theme, .content, header, #footer, html');
-
-  for (const item of list){
-    item.classList.toggle('dark-theme');
+btn.addEventListener("click", function () {
+  const list = document.querySelectorAll(
+    ".light-theme, .content, header, #footer, html"
+  );
+  for (const item of list) {
+    item.classList.toggle("dark-theme");
+    if (document.body.classList.contains("dark-theme")) {
+      localStorage.setItem("darkMode", "enabled");
+    } else {
+      localStorage.setItem("darkMode", "disabled");
+    }
   }
-  //document.body.classList.toggle('dark-theme');  
-  //document.getElementsByClassName('content').classList.add('dark-theme');
-})
+});
+
+if (localStorage.getItem("darkMode") == "enabled") {
+  const list = document.querySelectorAll(
+    ".light-theme, .content, header, #footer, html"
+  );
+  for (const item of list) {
+    item.classList.toggle("dark-theme");
+  }
+}
