@@ -48,6 +48,11 @@ tags: [software, herramientas] # TAG names should always be lowercase
 - [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus){:target="\_blank"} &#9989;
 - [Notepads](https://github.com/0x7c13/Notepads){:target="\_blank"}
 
+## Focus
+
+- [Cold Turkey](https://getcoldturkey.com/){:target="\_blank"}
+- [Freedom](https://freedom.to/){:target="\_blank"} &#128178;
+
 ## Gestor de Contraseñas
 
 - [Bitwarden](https://bitwarden.com/){:target="\_blank"} &#9989;
@@ -63,6 +68,12 @@ tags: [software, herramientas] # TAG names should always be lowercase
 - [DiscMon](https://docs.microsoft.com/en-us/sysinternals/downloads/diskmon){:target="\_blank"}
 - [DiskDrill](https://www.cleverfiles.com/data-recovery-software.html){:target="\_blank"} &#128178;
 - [Scrutiny](https://github.com/AnalogJ/scrutiny){:target="\_blank"}
+
+## Notas
+
+- [Logseq](https://logseq.com/){:target="\_blank"}
+- [Notion](https://www.notion.so/product){:target="\_blank"}
+- [Obsidian](https://obsidian.md/){:target="\_blank"}
 
 ## Optimizadores
 
@@ -108,6 +119,7 @@ tags: [software, herramientas] # TAG names should always be lowercase
 ## Remoto
 
 - [AnyDesk](https://anydesk.com/es){:target="\_blank"} &#128178;
+- [SCRCPY](https://github.com/Genymobile/scrcpy){:target="\_blank"}
 - [Teamviewer](https://www.teamviewer.com/es-mx/){:target="\_blank"} &#9989; &#128178;
 
 ## Virtualizacion
@@ -127,6 +139,7 @@ tags: [software, herramientas] # TAG names should always be lowercase
 - [Notion](https://www.notion.so/product?fredir=1){:target="\_blank"} &#9989;
 - [NSudo](https://github.com/M2Team/NSudo/){:target="\_blank"}
 - [PowerToys](https://github.com/microsoft/PowerToys){:target="\_blank"} &#9989;
+- [Rdrop](https://rdrop.link/){:target="\_blank"}
 - [Rufus](https://rufus.ie/es/){:target="\_blank"} &#9989;
 - [SecureUxTheme](https://github.com/namazso/SecureUxTheme){:target="\_blank"}
 - [Sysiternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite){:target="\_blank"}
