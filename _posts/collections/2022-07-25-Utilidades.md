@@ -69,6 +69,82 @@ tags: [software, herramientas] # TAG names should always be lowercase
 - [DiskDrill](https://www.cleverfiles.com/data-recovery-software.html){:target="\_blank"} &#128178;
 - [Scrutiny](https://github.com/AnalogJ/scrutiny){:target="\_blank"}
 
+## Multimedia
+
+### Audio
+
+#### Reproductores
+
+- [AIMP](https://www.aimp.ru/){:target="\_blank"}
+- [Foobar2000](https://www.foobar2000.org/){:target="\_blank"}
+- [Nuclear](https://nuclear.js.org/){:target="\_blank"}
+- [Musicbee](https://getmusicbee.com/){:target="\_blank"}
+- [MediaMonkey (Freeware)](https://www.mediamonkey.com/){:target="\_blank"}
+- [Winamp](https://www.winamp.com/){:target="\_blank"}
+
+#### Herramientas
+
+- [Audacity](https://www.audacityteam.org/){:target="\_blank"}
+- [MP3Tag](https://www.mp3tag.de/en/index.html){:target="\_blank"}
+- [MusicBrainz Picard](https://picard.musicbrainz.org/){:target="\_blank"}
+- [TagScanner](https://www.xdlab.ru/en/){:target="\_blank"}
+
+### Imagenes
+
+#### Visores
+
+- [Honeyview](https://es.bandisoft.com/honeyview/){:target="\_blank"}
+- [ImageGlass](https://imageglass.org/){:target="\_blank"}
+- [JPEGView](https://sourceforge.net/projects/jpegview/files/jpegview/1.0.37/){:target="\_blank"}
+
+#### Herramientas
+
+- [Paint.NET](http://paint.net/){:target="\_blank"}
+- [PNGyu](https://nukesaq88.github.io/Pngyu/){:target="\_blank"}
+- [RiOT](https://riot-optimizer.com/){:target="\_blank"}
+
+### Video
+
+#### Reproductores
+
+- [K-Lite Codec Pack](https://codecguide.com/download_kl.htm){:target="\_blank"}
+- [mpv](https://mpv.io/){:target="\_blank"}
+- [Potplayer](https://potplayer.daum.net/){:target="\_blank"}
+
+#### Herramientas
+
+- [Handbrake](https://handbrake.fr/)
+
+### Servidores Multimedia
+
+- [Emby](https://emby.media/){:target="\_blank"}
+- [Jellyfin](https://jellyfin.org/){:target="\_blank"}
+- [Kodi](https://kodi.tv/){:target="\_blank"}
+- [Plex](https://www.plex.tv/){:target="\_blank"}
+
+#### Herramientas
+
+- [Media Companion](https://sourceforge.net/projects/mediacompanion/)
+- [tinyMediaManager](https://www.tinymediamanager.org/)
+
+## Navegadores
+
+- [Brave](https://brave.com/es/){:target="\_blank"}
+- [Chrome](https://www.google.com/chrome/){:target="\_blank"}
+- [Edge](https://www.microsoft.com/es-es/edge?r=1){:target="\_blank"}
+- [Firefox](https://www.mozilla.org/es-ES/firefox/new/){:target="\_blank"}
+- [Opera](https://www.opera.com/es-419){:target="\_blank"}
+- [Opera GX](https://www.opera.com/es-419/gx){:target="\_blank"}
+- [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium){:target="\_blank"}
+- [Vivaldi](https://vivaldi.com/es/){:target="\_blank"}
+
+### Extensiones
+
+- [Dark Reader](https://darkreader.org/){:target="\_blank"}
+- [Decentraleyes](https://decentraleyes.org/){:target="\_blank"}
+- [Enhancer for Youtube](https://www.mrfdev.com/enhancer-for-youtube){:target="\_blank"}
+- [Ublock Origin](https://ublockorigin.com/es){:target="\_blank"}
+
 ## Notas
 
 - [Logseq](https://logseq.com/){:target="\_blank"}

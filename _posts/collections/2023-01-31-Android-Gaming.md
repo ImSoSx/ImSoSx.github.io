@@ -52,7 +52,7 @@ tags: [android, gaming, emuladores] # TAG names should always be lowercase
 
 #### Dreamcast
 
--[Flycast](https://github.com/flyinghead/flycast){:target="\_blank"}
+- [Flycast](https://github.com/flyinghead/flycast){:target="\_blank"}
 
 ### Sony
 
